@@ -121,5 +121,5 @@ body {
 /* Map */
 #map { 
   height: 500px;
-  width: 80vh;
+  width: 100%;
 }
